@@ -54,7 +54,7 @@ Make objects, actions, and options visible.
 User should not have to remember information from one part of the dialogue to another. 
 Instructions for use of the system should be visible or easily retrievable whenever appropriate. 
 
-Evaluation
+Evaluation:
 While attempting to chose various tabs available on the app, the user is able to use real world experiences to recognize and navigate the app. For example, the logos for each tab represent the function they perform. "Talk to a Doctor" has an image of a doctor and "Assess my Symptoms" shows a magnifying glass infront of a heart. The home button is also similar to those in other apps and is an image of a home. These consistencies allow the user to recognize functions and are able to find their way around the app more quickly. For this I would give the app a rating of 1. 
 
 ![home_page](https://www.pastepic.xyz/images/2019/10/15/image1dc76d5214722c93.png)
@@ -63,7 +63,7 @@ While attempting to chose various tabs available on the app, the user is able to
 Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users. 
 Allow users to tailor frequent actions. 
 
-Evaluation
+Evaluation:
 The app essentially mirrors a text conversation between individuals. In this the two individuals present are the computer program and the user. While discussing the symptoms, the app does a very good job of allowing anyone to be able to point out their symptoms by using a computer generated image of the bosy. I find this extremely useful as even people who are unable to verbalize where exactly their sypmtoms stem from, have a means of describing how they are feeling. I would give this a rating of 1. 
 
 ![home_page](https://www.pastepic.xyz/images/2019/10/15/imagedd1b1e1f3c6f16f3.png)
@@ -71,7 +71,7 @@ The app essentially mirrors a text conversation between individuals. In this the
 Dialogues should not contain information which is irrelevant or rarely needed. 
 Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility. 
 
-Evaluation
+Evaluation:
 The app itself has a very minimalistic design. There are not many excessive colors or loud buttons. Rather the app focuses on the dialouges between the user and the program and allows for easy to understand text boxes. The use of blues and white within the app give the user a feeling of serentity and allow them to feel calm while researching their symptoms. For this reason I would give the app a rating of 1. 
 ![home_page](https://www.pastepic.xyz/images/2019/10/15/image1dc76d5214722c93.png) 
 
@@ -80,7 +80,7 @@ Expressed in plain language (no codes)
 Precisely indicate the problem
 Constructively suggest a solution. 
 
-Evaluation
+Evaluation:
 While exiting the text book for the tab "Assess my symptoms" the app allows the user to re evaluate whether they would like to leave the page or not. This allows for the user to save their work in case they accidnetally pressed the exit button. One thing I would change for the app though is if a symptom is added by mistake, it is not possible to remove this symptom from your list of symptoms. Instead you must go through the entire process again to input the correct symptoms. Allow the users to edit their symptoms would allow for a more efficient and accurate assessment. For this reason I would give the app a rating of 2. 
 
 ![home_page](https://www.pastepic.xyz/images/2019/10/15/image9d84711db7e5b3ea.png)
@@ -90,7 +90,7 @@ While exiting the text book for the tab "Assess my symptoms" the app allows the 
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
 Help  information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large. 
 
-Evaluation
+Evaluation:
 
 The help section is not easy to access within the app. While there is a search bar, it is only used for articles within the app rather than actually helping with navigating the app as a whole. It would be more convient to have a section that guides the user in how to navigate the app as a whole and how to change information if needed. I would give the help and documentation section a rating of 3. 
 ![home_page](https://www.pastepic.xyz/images/2019/10/15/image1dc76d5214722c93.png) 
